@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.222.57.139:8081/repository/DGA-web-releases/</url>
+	      <url>http://172.31.33.251:8081/repository/Vtech_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.222.57.139:8081/repository/DGA-web-snapshot/</url>
+	      <url>http://172.31.33.251:8081/repository/Vtech_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
